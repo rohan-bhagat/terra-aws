@@ -16,3 +16,4 @@ StrictHostKeyChecking no
 ```
 $ eval $(ssh-agent) && ssh-add ~/.ssh/keyfile #DO THIS IN THE SAME SHELL FROM WHICH YOU RUN TERRAFORM
 ```
+**This is still work in progress**
